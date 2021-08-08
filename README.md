@@ -44,8 +44,8 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
+    $ git clone https://github.com/AmanSharma9050/Registration-Form.git
+    $ cd Registration-Form
     $ npm install
 
 ## Configure app
